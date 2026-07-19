@@ -27,19 +27,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-image-frame"><div class="badge">GC Wkshps 2025</div><img src='images/article1.png' alt="ChannelDS paper illustration"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**ChannelDS: A DeepSeek Based Multi-Modal Large Model for 6G Channel and Its Application in Few-Shot Beam Prediction**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Y. Zhao**, L. Yu, L. Shi, J. Zhang, Y. Zhang and G. Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=2Z4wen4AAAAJ&citation_for_view=2Z4wen4AAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='2Z4wen4AAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[View](https://ieeexplore.ieee.org/document/11590871)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Y. Zhao**, L. Yu, L. Shi, J. Zhang, Y. Zhang and G. Liu, "ChannelDS: A DeepSeek Based Multi-Modal Large Model for 6G Channel and Its Application in Few-Shot Beam Prediction," *2025 IEEE Globecom Workshops (GC Wkshps)*, Taipei, Taiwan, 2025, pp. 2053-2058. [\[view\]](https://ieeexplore.ieee.org/document/11590871)
 
 # 🎖 Honors and Awards
 - *2025.08*, IEEE/CIC ICCC 2025 Best Demo Award.
