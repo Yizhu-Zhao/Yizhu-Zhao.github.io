@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yizhu Zhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "M.Eng. student and incoming Ph.D. student in Information and Communication Engineering."
 repository               : "Yizhu-Zhao/Yizhu-Zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Yizhu-Zhao"
   google_plus      :
   keybase          :
   instagram        :
