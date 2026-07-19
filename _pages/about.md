@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently an M.Eng. student in Information and Communication Engineering at Beijing University of Posts and Telecommunications (BUPT), and I will transition to the Ph.D. program in September 2026. I received my B.Eng. degree in Communication Engineering from BUPT in June 2025.
 
-My research interests primarily focus on Digital Twin Channel, Electromagnetic World Model, and Channel Foundation Model. You can find my publications on <a href='https://scholar.google.com/citations?user=2Z4wen4AAAAJ'>Google Scholar</a>, with <strong><span id='total_cit'>--</span></strong> citations.
+My research interests primarily focus on Digital Twin Channel, Electromagnetic World Model, and Channel Foundation Model. You can find my publications on <a href='https://scholar.google.com/citations?user=2Z4wen4AAAAJ'>Google Scholar</a>.
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉 I received my Ph.D. admission letter from Beijing University of Posts and Telecommunications.
