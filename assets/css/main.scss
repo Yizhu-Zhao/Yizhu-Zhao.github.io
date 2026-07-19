@@ -57,6 +57,7 @@
         order: 2;
 
         .paper-image-frame {
+            position: relative;
             width: 500px;
             max-width: 100%;
             aspect-ratio: 5 / 3;
@@ -66,6 +67,12 @@
             overflow: hidden;
             background: #fff;
             box-shadow: 3px 3px 6px #888;
+
+            .badge {
+                top: .5em;
+                left: 0;
+                margin: 0;
+            }
         }
 
         img {
